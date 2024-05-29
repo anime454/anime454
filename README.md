@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anime454)
 ### Hi there 👋
 ### About me 
-  I'm a Software Engineer :computer:	 who is interested in Golang, Linux, Cryptocurrency, and Penetration Tester. I have 1-year of experience as a Software Engineer and 1-year of experience as a Network Engineer. I'm currently developing :seedling: new skills to improve myself and solve my routine work 
+  I'm a Software Engineer :computer:	 who is interested in Golang, Linux, Cryptocurrency, and Penetration Tester. I have 2-year of experience as a Software Engineer and 1-year of experience as a Network Engineer. I'm currently developing :seedling: new skills to improve myself and solve my routine work 
 <!--
 **anime454/anime454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
