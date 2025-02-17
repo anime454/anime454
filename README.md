@@ -14,6 +14,4 @@ I'm a passionate Software Engineer 💻 with a keen interest in Golang, Linux, C
 
 ## Featured Repositories
 
-[![Google Two-Factor Authentication](https://github.devindepth.cloud/pin/?username=anime454&repo=google-two-factor-authen)](https://github.com/anime454/google-two-factor-authen)
-
-[![Go Hexagonal Architecture](https://github.devindepth.cloud/pin/?username=anime454&repo=go_hexagonal_architecture)](https://github.com/anime454/go_hexagonal_architecture)
+[![Google Two-Factor Authentication](https://github.devindepth.cloud/pin/?username=anime454&repo=google-two-factor-authen)](https://github.com/anime454/google-two-factor-authen) [![Go Hexagonal Architecture](https://github.devindepth.cloud/pin/?username=anime454&repo=go_hexagonal_architecture)](https://github.com/anime454/go_hexagonal_architecture)
