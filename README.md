@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github.devindepth.cloud/?username=anime454&show_icons=true&theme=merko)
+![GitHub stats](https://github.devindepth.cloud/?username=anime454&show_icons=true&theme=merko)
+![Top Language](https://github.devindepth.cloud/top-langs/?username=anime454&langs_count=10)
 ### Hi there 👋
 ### About me 
   I'm a Software Engineer :computer:	 who is interested in Golang, Linux, Cryptocurrency, and Penetration Tester. I have 2-year of experience as a Software Engineer and 1-year of experience as a Network Engineer. I'm currently developing :seedling: new skills to improve myself and solve my routine work 
