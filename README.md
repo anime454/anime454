@@ -1,21 +1,19 @@
+# Hi there! 👋
 
+## About Me
 
-### Hi there 👋
-### About me 
-  I'm a Software Engineer :computer:	 who is interested in Golang, Linux, Cryptocurrency, and Penetration Tester. I have 2-year of experience as a Software Engineer and 1-year of experience as a Network Engineer. I'm currently developing :seedling: new skills to improve myself and solve my routine work 
-<!--
-**anime454/anime454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Engineer 💻 with a keen interest in Golang, Linux, Cryptocurrency, and Penetration Testing. With 4 years of experience in software engineering and 2 years in network engineering, I'm constantly developing new skills 🌱 to enhance my expertise and tackle everyday challenges.
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github.devindepth.cloud/?username=anime454&show_icons=true&theme=merko)
 
-![GitHub stats](https://github.devindepth.cloud/?username=anime454&show_icons=true&theme=merko) ![Top Language](https://github.devindepth.cloud/top-langs/?username=anime454&layout=compact&langs_count=10)
+## Top Languages
+
+![Top Language](https://github.devindepth.cloud/top-langs?username=anime454&layout=compact&langs_count=10)
+
+## Featured Repositories
+
+[![Google Two-Factor Authentication](https://github.devindepth.cloud/pin/?username=anime454&repo=google-two-factor-authen)](https://github.com/anime454/google-two-factor-authen)
+
+[![Go Hexagonal Architecture](https://github.devindepth.cloud/pin/?username=anime454&repo=go_hexagonal_architecture)](https://github.com/anime454/go_hexagonal_architecture)
