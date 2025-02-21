@@ -20,7 +20,7 @@ I'm **Capybara Man**, a passionate Software Engineer with a keen interest in **G
 ## 📊 Top Languages
 
 <p align="center">
-  <img src="https://github.devindepth.cloud/top-langs?username=anime454&layout=compact&langs_count=10&hide=Makefile,c++" alt="Top Languages" />
+  <img src="https://github.devindepth.cloud/top-langs?username=anime454&layout=compact&langs_count=10&hide=Makefile,C++,python" alt="Top Languages" />
 </p>
 
 ## 📌 Pinned Repositories
