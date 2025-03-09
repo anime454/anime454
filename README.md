@@ -14,13 +14,13 @@ I'm **Capybara Man**, a passionate Software Engineer with a keen interest in **G
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github.devindepth.cloud/?username=anime454&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <img src="https://github-stats.codybara.com/?username=anime454&show_icons=true&theme=merko" alt="GitHub Stats" />
 </p>
 
 ## 📊 Top Languages
 
 <p align="center">
-  <img src="https://github.devindepth.cloud/top-langs?username=anime454&layout=compact&langs_count=10&hide=c%2B%2B,makefile,c,Objective-C,Cmake,HTML,ruby,css" alt="Top Languages" />
+  <img src="https://github-stats.codybara.com/top-langs?username=anime454&layout=compact&langs_count=10&hide=c%2B%2B,makefile,c,Objective-C,Cmake,HTML,ruby,css" alt="Top Languages" />
 </p>
 
 ## 📌 Pinned Repositories
