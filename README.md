@@ -46,4 +46,4 @@ Feel free to reach out if you have any questions or just want to connect!
 
 ---
 
-*Generated with ❤️ by Capybara Man*
+*❤️ Capybara Man*
