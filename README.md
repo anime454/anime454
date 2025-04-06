@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Capybara Man**, a passionate Software Engineer with a keen interest in **Golang**, **Linux**, **Cryptocurrency**, and **Penetration Testing**. With 4 years of experience in software engineering and 2 years in network engineering, I'm constantly developing new skills to tackle everyday challenges.
+I'm **Capybara Man**, a passionate Software Engineer with a keen interest in **Golang**, **Linux**, **Cryptocurrency**, and **Penetration Testing**. With 4 years 6 months of experience in software engineering and 2 years in network engineering, I'm constantly developing new skills to tackle everyday challenges.
 
 ## 🔧 Technologies & Tools
 
